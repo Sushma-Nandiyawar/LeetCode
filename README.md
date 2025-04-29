@@ -26,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
