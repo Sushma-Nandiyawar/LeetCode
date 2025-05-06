@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
