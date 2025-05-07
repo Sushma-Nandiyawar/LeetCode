@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
