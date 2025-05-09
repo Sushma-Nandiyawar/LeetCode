@@ -38,6 +38,7 @@
 | [0020-valid-parentheses](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
