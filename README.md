@@ -19,6 +19,7 @@
 | [0027-remove-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0058-length-of-last-word](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
