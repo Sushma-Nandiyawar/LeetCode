@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
