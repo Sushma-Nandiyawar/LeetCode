@@ -44,6 +44,7 @@
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -88,6 +89,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0101-symmetric-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -142,6 +145,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
