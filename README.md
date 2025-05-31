@@ -115,6 +115,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -174,4 +177,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
