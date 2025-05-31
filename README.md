@@ -110,6 +110,7 @@
 | [0101-symmetric-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -122,6 +123,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -136,10 +138,12 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Heap (Priority Queue)
 |  |
