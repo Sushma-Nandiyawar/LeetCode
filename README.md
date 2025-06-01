@@ -17,6 +17,7 @@
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
