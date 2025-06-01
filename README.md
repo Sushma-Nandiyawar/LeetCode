@@ -103,6 +103,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0210-course-schedule-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
@@ -137,6 +139,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0684-redundant-connection) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
