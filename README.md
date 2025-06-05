@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Quickselect
 |  |
 | ------- |
@@ -204,4 +207,9 @@
 | [0098-validate-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
