@@ -19,6 +19,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0169-majority-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
+| [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0169-majority-element) |
+| [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [0155-min-stack](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Backtracking
 |  |
 | ------- |
