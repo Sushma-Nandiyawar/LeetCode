@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0189-rotate-array) |
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -187,6 +188,7 @@
 | [0155-min-stack](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Backtracking
 |  |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
