@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0169-majority-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Divide and Conquer
 |  |
@@ -194,6 +197,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2139-detect-squares](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/2139-detect-squares) |
 ## Backtracking
 |  |
@@ -231,4 +235,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
