@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
@@ -52,6 +53,7 @@
 | [0058-length-of-last-word](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
@@ -120,6 +122,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0101-symmetric-tree) |
@@ -196,11 +199,13 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sushma-Nandiyawar/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
